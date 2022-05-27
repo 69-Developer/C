@@ -4,18 +4,18 @@
 int main(){
 
     // write code here
-    float a;
-    a = 55.5;
-    printf("%f",a);
-    int b;
-    b = 4;
-    printf("\n%d",b);
+    // float a;
+    // a = 55.5;
+    // printf("%f",a);
+    // int b;
+    // b = 4;
+    // printf("\n%d",b);
 
     // Printing floating pointer numbers
     
-    float xyz = 36.452;
+    // float xyz = 36.452;
 
-    printf("%0.2f",xyz);
+    // printf("%0.2f",xyz);
 
     // format specifiers
 
@@ -31,13 +31,14 @@ int main(){
 //    Setting up constants
 
     // 1. 
-    const float PI = 3.14;
+    // const float PI = 3.14;
 
-    printf("%0.2f",PI);
+    // printf("%0.2f",PI);
 
     // Another one
     // areaofcircle = 69;
 
-    printf("\a",PI);
+    printf("\a");
+    return 0;
     // by #define
 }
